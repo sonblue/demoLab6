@@ -10,6 +10,7 @@ namespace Lab6
         static void Main(string[] args)
         {
             //commit lab 6
+            //commit lan 2
         }
     }
 }
