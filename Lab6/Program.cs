@@ -11,6 +11,7 @@ namespace Lab6
         {
             //commit lab 6
             //commit lan 2
+            //pull ve
         }
     }
 }
